@@ -9,6 +9,8 @@ CheckPoint 02:
 # Sistema de Monitoramento Ambiental
 Este repositório contém um código em Arduino para um sistema de monitoramento ambiental que utiliza diversos sensores para medir temperatura, luminosidade e umidade. O sistema exibe as leituras em um display LCD e aciona LEDs e um buzzer para indicar condições ambientais específicas.
 
+[Link para o Projeto no Tinkercad]([http://google.com/](https://www.tinkercad.com/things/g6WkUIUNhM3-teste-checkpoint2/editel?sharecode=hPT0RZawvk_LGobn3Pr2RnJmoK-4cah-GPdFZFbOCDc))
+
 ---
 
 ## Requisitos
