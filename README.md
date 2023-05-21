@@ -79,5 +79,4 @@ As condições de luminosidade, umidade e temperatura para acionamento dos LEDs 
 - O código está configurado para imprimir as leituras dos sensores na porta serial. Você pode visualizar essas leituras através de um monitor serial no software Arduino IDE ou outro software de comunicação serial.
 
 ---
-## Licença
-Este projeto é disponibilizado sob a licença MIT. Sinta-se à vontade para utilizar, modificar e distribuir este código de acordo com os termos da licença. Consulte o arquivo LICENSE para obter mais informações.
+
